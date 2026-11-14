@@ -4,6 +4,24 @@ Browser-based 3D humanoid motion imitation studio powered by **MoveNet Lightning
 
 ---
 
+## 1 - Real-time Human Demonstration
+
+![Preview Simulasi Robot](images/review1.png)
+
+---
+
+## 2 - Train Behavior Cloning
+
+![Preview Simulasi Robot](images/review2.png)
+
+---
+
+## 3 - Autonomous Agent
+
+![Preview Simulasi Robot](images/review3.png)
+
+---
+
 ## Technologies Used
 
 | Layer | Technology |
