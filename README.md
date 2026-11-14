@@ -1,6 +1,6 @@
-# Clone Agent AI — IMITATION LEARNING (LEARNING BY DEMONSTRATION)
+# Clone Agent AI
 
-Browser-based 3D humanoid motion imitation studio powered by **MoveNet Lightning** webcam pose capture, **Dual-Head Behavior Cloning** trained in HTML5 Web Workers, and **zero-webcam Autonomous Execution** backed by a custom **PHP 8+ MVC** API and **MySQL/MariaDB** — requiring **no Python** and **no Node.js**.
+Browser-based 3D humanoid motion imitation studio powered by **MoveNet Lightning** webcam pose capture using IMITATION LEARNING (LEARNING BY DEMONSTRATION), **Dual-Head Behavior Cloning** trained in HTML5 Web Workers, and **zero-webcam Autonomous Execution** backed by a custom **PHP 8+ MVC** API and **MySQL/MariaDB** — requiring **no Python** and **no Node.js**.
 
 ---
 
